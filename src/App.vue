@@ -29,11 +29,11 @@ export default {
   text-align: center;
   }
   
-  footer {
+   footer {
     text-align: center;
     padding: 20px;
-    background-color:  white;
-    color: purple;
+    background-color: purple;
+    color: #fff;
     position: relative;
     bottom: 0;
     width: 100%;
